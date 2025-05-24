@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# OlaMUndo
-
-Repositório versionado para testes - GitHub desktop
-=======
-# OlaMundo
+# Olá, Mundo !!!
 Repositório para testes gitHub desktop
->>>>>>> c48aec0aa9cebd3771c525eac7ca11b5364df8f9
+
+1-Fazendo primeira mudança
